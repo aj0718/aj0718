@@ -49,7 +49,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://www.rust-lang.org/logos/rust-logo-blk.svg" height="40" alt="rust logo"  />
+  <img src="https://www.rust-lang.org/logos/rust-logo-256x256.png" height="40" alt="rust logo"  />
 </div>
 
 ###
