@@ -4,10 +4,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=aj0718.aj0718&"  />
-</div>
-
 ###
 
 <h1 align="center">Hello there 👋</h1>
