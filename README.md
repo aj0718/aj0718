@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm Akash. <br><br>- 🔭 I’m working as a Staff Software Developer, building SDKs for Dexcom Inc. <br>- 📚 I'm currently learning LLM building<br>- ⚡ In my free time I like to play board game</p>
+<p align="left">I'm Akash. <br><br>- 🔭 I’m working as a Staff Software Developer, building SDKs for Dexcom Inc. <br>- 📚 I'm currently learning LLM building<br>- ⚡ In my free time I like to play online games on my PS and board game</p>
 
 ###
 
